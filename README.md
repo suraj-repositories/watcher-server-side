@@ -4,7 +4,7 @@
 I created this to tell me write your daily tasks to get informed about your progress...
 
 ## 🔗 Resource
-This is just the implementation of user side : The server side script of php project available at 
+This is just the implementation of server side : The user side UI of java project available at 
 [Watcher User Side](https://github.com/suraj-repositories/watcher-user-side)
 
 
